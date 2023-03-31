@@ -1,6 +1,6 @@
 Name:		texlive-pdfcol
 Version:	64469
-Release:	1
+Release:	2
 Summary:	Macros for maintaining colour stacks under pdfTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfcol
