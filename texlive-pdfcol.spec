@@ -3,7 +3,7 @@ Version:	64469
 Release:	2
 Summary:	Macros for maintaining colour stacks under pdfTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfcol
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdfcol
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfcol.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfcol.doc.r%{version}.tar.xz
